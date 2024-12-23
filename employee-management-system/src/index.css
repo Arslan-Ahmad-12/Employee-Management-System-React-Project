@@ -8,4 +8,7 @@
 body{
   background-color: black;
 }
+#TaskList::-webkit-scrollbar{
+  display:none;
+}
 
